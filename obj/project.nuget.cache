@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tE7mTWc918dVElOWGiSHvi70ciEbMhbdvTc3xpFb6bAmIiRNYs1YKW9e2ygs5aB9NCl34Ckc0vsqKPzlko7zMw==",
+  "dgSpecHash": "QzmifD9nyYA6u4Gyn8m5xYn37LwtwVt9sjAK88VwFgzOK7NCgO0Nt1iDUb8u6Flw1gN4RTTGc07uGLgC+1lUxQ==",
   "success": true,
-  "projectFilePath": "D:\\GithubRepositories\\RockstarCloudXMLToFivemJSON\\RockstarCloudXMLToFivemJSON\\RockstarCloudXMLToFivemJSON.csproj",
+  "projectFilePath": "D:\\GithubRepositories\\RockstarCloudXMLToJson\\RockstarCloudXMLToFivemJSON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yisus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
