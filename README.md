@@ -6,3 +6,6 @@ Simple tool to convert R* Cloud XML to a simple JSON in order to use wherever yo
 
 # Build
 > You just compile with Visual Studio or Command Console.
+
+# Run
+> Just download release zip from releases tab and run the ".exe"
